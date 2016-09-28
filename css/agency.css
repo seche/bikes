@@ -25,7 +25,26 @@ p.large {
   font-family: Arial, sans-serif;
   font-weight: bold;
 }
-
+.g-recaptcha{
+   margin: 15px auto !important;
+   width: auto !important;
+   height: auto !important;
+   text-align: -webkit-center;
+   text-align: -moz-center;
+   text-align: -o-center;
+   text-align: -ms-center;
+}
+.boxit{
+  border-radius:4px;
+  background: rgba(230,230,230,.7);
+  padding: 31px;
+  border: solid 1px #ccc;
+  border-radius: 4px;
+}
+#newsemail{
+  padding: 32px;
+  
+}
 .image-credit-wrapper img {
  width: 100% !important;
 }
